@@ -8,8 +8,8 @@
 ---
 
 - 🌱 I’m currently learning **MERN Stack**
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, MySQL, React, PHP**
-- 📫 How to reach me: **tiwarisumitptd@gmail.com**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, MySQL, React, PHP, C, C++**
+- 📫 How to reach me: **tiwarisumitpbh.01@gmail.com**
 - ⚡ Fun fact: I love solving problems with clean and simple code!
 
 ---
